@@ -20,3 +20,6 @@ pais.persistencia.tipo = XML
 
 O projeto tem por finalidade cadastrar cidades, estados e paises de forma volatil ou definitva.
 Para o cadastro de forma definitiva, as opcoes de salvamento sao xml (.xml) ou binario (.dat)
+
+
+a unica database anexada ao arquivo foi em formato xml.
