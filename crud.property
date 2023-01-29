@@ -1,0 +1,6 @@
+cidade.controller.tipo = DEFINITIVO
+estado.controller.tipo = DEFINITIVO
+pais.controller.tipo = DEFINITIVO
+cidade.persistencia.tipo = XML
+estado.persistencia.tipo = XML
+pais.persistencia.tipo = XML
